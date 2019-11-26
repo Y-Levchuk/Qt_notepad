@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imgs/Add_16x16.bmp</file>
+        <file>imgs/Archive_16x16.bmp</file>
+        <file>imgs/Back.bmp</file>
+        <file>imgs/Delete_16x16.bmp</file>
+        <file>imgs/DeleteSticky.bmp</file>
+        <file>imgs/Home.bmp</file>
+        <file>imgs/Just note.bmp</file>
+        <file>imgs/New.bmp</file>
+        <file>imgs/Next .bmp</file>
+        <file>imgs/Open.bmp</file>
+        <file>imgs/Open_16x16.bmp</file>
+        <file>imgs/Save.bmp</file>
+        <file>imgs/Stock Index Down_16x16.bmp</file>
+        <file>imgs/Stock Index Up_16x16.bmp</file>
+        <file>imgs/Work.bmp</file>
+    </qresource>
+</RCC>
